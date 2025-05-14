@@ -1,4 +1,12 @@
-[
-  "Mod1",
-  "Mod2"
-]
+{
+  "mods": [
+    {
+      "localePath": "Mod1/locale",
+      "crowdinName": "Name1"
+    },
+    {
+      "localePath": "Mod3/Data/locale",
+      "crowdinName": "Name3"
+    }
+  ]
+}
